@@ -4,5 +4,5 @@
   "admob_video_reward_ios_id": "admob_video_reward_ios_id",
   "admob_banner_android_id": "/21617116612/134471542713620",
   "admob_fullscreen_android_id": "/21617116612/334471542713620",
-  "admob_video_reward_android_id": "ca-app-pub-2313206220567592/5969064753"
+  "admob_video_reward_android_id": "/112517806/634471543128979"
 }
