@@ -1,8 +1,8 @@
 {
-  "admob_banner_ios_id": "/112517806/118461515874948",
-  "admob_fullscreen_ios_id": "/112517806/318461515874948",
-  "admob_video_reward_ios_id": "/112517806/618461544153417",
-  "admob_banner_android_id": "/21617116612/138781548614779",
-  "admob_fullscreen_android_id": "/21617116612/338781548614779",
-  "admob_video_reward_android_id": "/112517806/638781552158787"
+  "admob_banner_ios_id": "ca-app-pub-2313206220567592/3483296436",
+  "admob_fullscreen_ios_id": "ca-app-pub-2313206220567592/6708225571",
+  "admob_video_reward_ios_id": "ca-app-pub-2313206220567592/1978643075",
+  "admob_banner_android_id": "ca-app-pub-2313206220567592/9310338188",
+  "admob_fullscreen_android_id": "ca-app-pub-2313206220567592/6906524364",
+  "admob_video_reward_android_id": "ca-app-pub-2313206220567592/9341116010"
 }
