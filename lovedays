@@ -7,5 +7,5 @@
   "admob_video_reward_android_id": "ca-app-pub-2313206220567592/6616340390",
   "admob_banner_setting_android_id": "ca-app-pub-2313206220567592/5728473593",
   "admob_time_wait_show_ad":3000,
-  "admob_interval_show_ad":40000
+  "admob_interval_show_ad":60000
 }
