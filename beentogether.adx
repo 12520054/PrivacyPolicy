@@ -12,7 +12,7 @@
     "use_interstitial_adx": 0,
     "use_reward_adx": 0,
     "time_wait_splash":3000,
-    "interval_show_ad":60000
+    "interval_show_ad":30000
   },
   "ios": {
     "admob_banner_id": "admob_banner_id",
@@ -27,6 +27,6 @@
     "use_interstitial_adx": 0,
     "use_reward_adx": 0,
     "time_wait_splash":3000,
-    "interval_show_ad":60000
+    "interval_show_ad":30000
   }
 }
