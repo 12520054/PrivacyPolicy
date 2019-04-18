@@ -12,7 +12,7 @@
     "use_interstitial_adx": 1,
     "use_reward_adx": 1,
     "time_wait_splash":5000,
-    "interval_show_ad":40000,
+    "interval_show_ad":60000,
     "enable_rate":true
   },
   "ios": {
