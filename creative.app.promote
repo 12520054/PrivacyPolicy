@@ -2,13 +2,13 @@
   "android": {
     "list_app":[
       {
-        "app_name":"100 Puzzle Games",
+        "app_name":"100 Puzzle",
         "package_name":"com.creative.bbpuzzle",
         "description":"100 Puzzle Games",
         "icon_url":"https://lh3.googleusercontent.com/S0H4v1ouiJzz2UBWnLSJ0EdWo4JbPUonoBw-adfm2HtjfocwQPDTJhmH2IM-Soh4Agwg"
       },
       {
-        "app_name":"Drag n Shoot Ballz",
+        "app_name":"Drag n Shoot",
         "package_name":"com.creative.brickbreaker",
         "description":"Drag n Shoot Ballz",
         "icon_url":"https://lh3.googleusercontent.com/FM5e6tdXq9w3HgyztsmxeEo4aAU8PKbsn8KrjnTNTEiKjSjsNkHVb7TU4YPUjTJY3QI"
@@ -20,7 +20,7 @@
         "icon_url":"https://lh3.googleusercontent.com/sGEZ5ystrTjqoJHT0tkCK6UJG-WL0_rBo2b2GDNpZCef9pQesODEqSkcSyyoNRbCc9Y"
       },
       {
-        "app_name":"Been Together Lite",
+        "app_name":"Lite version",
         "package_name":"com.creative.lite.beentogether",
         "description":"Been Together Lite",
         "icon_url":"https://lh3.googleusercontent.com/fn5eZL5MKDj1_j6kes8nUIlxq_XVjCjuem6auaZzlSl-1wlUYF8FYE2lzXVpq0S1sd5N"
