@@ -2,19 +2,19 @@
   "android": {
     "list_app":[
       {
-        "app_name":"100 Puzzle",
+        "app_name":"1010!",
         "package_name":"com.creative.bbpuzzle",
         "description":"100 Puzzle Games",
         "icon_url":"https://lh3.googleusercontent.com/S0H4v1ouiJzz2UBWnLSJ0EdWo4JbPUonoBw-adfm2HtjfocwQPDTJhmH2IM-Soh4Agwg"
       },
       {
-        "app_name":"Drag n Shoot",
+        "app_name":"Drag Ballz",
         "package_name":"com.creative.brickbreaker",
         "description":"Drag n Shoot Ballz",
         "icon_url":"https://lh3.googleusercontent.com/FM5e6tdXq9w3HgyztsmxeEo4aAU8PKbsn8KrjnTNTEiKjSjsNkHVb7TU4YPUjTJY3QI"
       },
       {
-        "app_name":"Woody Puzzle",
+        "app_name":"Woody",
         "package_name":"com.creative.hexapuzzle",
         "description":"Woody Puzzle",
         "icon_url":"https://lh3.googleusercontent.com/sGEZ5ystrTjqoJHT0tkCK6UJG-WL0_rBo2b2GDNpZCef9pQesODEqSkcSyyoNRbCc9Y"
