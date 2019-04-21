@@ -13,7 +13,8 @@
     "use_reward_adx": 1,
     "time_wait_splash":5000,
     "interval_show_ad":45000,
-    "enable_rate":true
+    "enable_rate":true,
+    "enable_promote":false
   },
   "ios": {
     "admob_banner_id": "admob_banner_id",
