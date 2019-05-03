@@ -9,8 +9,8 @@
     "adx_interstitial_id": "/21617015150/52210046/21811679113",
     "adx_reward_id": "/21617015150/52210046/21811550450",
     "use_banner_adx": 1,
-    "use_interstitial_adx": 1,
-    "use_reward_adx": 1,
+    "use_interstitial_adx": 0,
+    "use_reward_adx": 0,
     "time_wait_splash":5000,
     "interval_show_ad":40000,
     "enable_rate":true
