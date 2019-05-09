@@ -8,7 +8,7 @@
     "adx_banner_setting_id": "/21617015150/52210046/21811129618",
     "adx_interstitial_id": "/21617015150/52210046/21811126384",
     "adx_reward_id": "/21617015150/52210046/21811126450",
-    "use_banner_adx": 1,
+    "use_banner_adx": 0,
     "use_interstitial_adx": 0,
     "use_reward_adx": 0,
     "time_wait_splash":5000,
