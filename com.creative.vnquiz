@@ -2,7 +2,7 @@
   "admob_banner_ios_id": "ca-app-pub-3940256099942544/2934735716",
   "admob_fullscreen_ios_id": "ca-app-pub-3940256099942544/4411468910",
   "admob_video_reward_ios_id": "ca-app-pub-3940256099942544/1712485313",
-  "admob_banner_android_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_fullscreen_android_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_video_reward_android_id": "ca-app-pub-3940256099942544/5224354917"
+  "admob_banner_android_id": "ca-app-pub-2313206220567592/3307573161",
+  "admob_fullscreen_android_id": "ca-app-pub-2313206220567592/5742164811",
+  "admob_video_reward_android_id": "ca-app-pub-2313206220567592/6957498974"
 }
