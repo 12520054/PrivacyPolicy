@@ -11,7 +11,7 @@
     "use_banner_adx": 0,
     "use_interstitial_adx": 0,
     "use_reward_adx": 0,
-    "time_wait_splash":5000,
+    "time_wait_splash":6000,
     "interval_show_ad":15000,
     "enable_rate":true
   },
