@@ -14,7 +14,7 @@
     "time_wait_splash":5000,
     "interval_show_ad":25000,
     "enable_rate":true,
-    "enable_promote":false,
+    "enable_promote":true,
     "enable_change_gender":true,
     "enable_remove_ad_promote":true
   },
