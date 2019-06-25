@@ -2,16 +2,10 @@
   "android": {
     "list_app":[
       {
-        "app_name":"1010!",
-        "package_name":"com.creative.bbpuzzle",
+        "app_name":"Hỏi Ngu",
+        "package_name":"com.creative.quiz.vn.hoingu.biettuot",
         "description":"100 Puzzle Games",
-        "icon_url":"https://lh3.googleusercontent.com/S0H4v1ouiJzz2UBWnLSJ0EdWo4JbPUonoBw-adfm2HtjfocwQPDTJhmH2IM-Soh4Agwg"
-      },
-      {
-        "app_name":"Woody",
-        "package_name":"com.creative.hexapuzzle",
-        "description":"Woody Puzzle",
-        "icon_url":"https://lh3.googleusercontent.com/sGEZ5ystrTjqoJHT0tkCK6UJG-WL0_rBo2b2GDNpZCef9pQesODEqSkcSyyoNRbCc9Y"
+        "icon_url":"https://lh3.googleusercontent.com/QHDi7MVy9WDwSw5UgwILfEMSrP8OeU6U_3E5cEAe6XNU_svoXsx1PStYJsbuF479SH8l"
       }
     ]
   },
