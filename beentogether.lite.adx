@@ -12,8 +12,8 @@
     "use_interstitial_adx": 0,
     "use_reward_adx": 0,
     "time_wait_splash":6000,
-    "interval_show_ad":25000,
-    "delay_load_ad_failed":500,
+    "interval_show_ad":45000,
+    "delay_load_ad_failed":5000,
     "enable_rate":true
   },
   "ios": {
