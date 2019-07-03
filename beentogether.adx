@@ -12,7 +12,7 @@
     "use_interstitial_adx": 0,
     "use_reward_adx": 0,
     "time_wait_splash":5000,
-    "interval_show_ad":25000,
+    "interval_show_ad":45000,
     "enable_rate":true,
     "enable_promote":false,
     "enable_change_gender":true,
